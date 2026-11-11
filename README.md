@@ -1,6 +1,6 @@
 # liivrrthonbudget
 
-create a document for the budget per attached text  -  and design it in similar format to this attached image for text, colors, sfonts etc inspo but make it A4 portrsit and downloadable as pdf
+create a document for the budget per attached text - and design it in similar format to this attached image for text, colors, sfonts etc inspo but make it A4 portrsit and downloadable as pdf
 
 This project was built with [Lovable](https://lovable.dev).
 

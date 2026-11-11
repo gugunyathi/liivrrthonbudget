@@ -1,0 +1,6 @@
+{
+  "name": "Liivrrthon Budget",
+  "description": "Pan-African budget planner and document generator designed in A4 portrait format with PDF export capability across Africa (featuring South Africa, Nigeria, Kenya and Mozambique as key hub examples).",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
